@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2_0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_0">
+				<Option output="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug/2_0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_0"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_0/fast">
+				<Option output="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug/2_0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_0/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Simon-CWG/Library/Mobile\ Documents/com~apple~CloudDocs/imperial/Summer\ Term/C++\ &amp;\ Finance/coursework/2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/backtest_class.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/backtest_class.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/basic_function.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/basic_function.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/main.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/Matrix.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/Matrix.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/csv.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/csv.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/read_data.cpp">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/read_data.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/util/util.h">
+			<Option target="2_0"/>
+		</Unit>
+		<Unit filename="/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ &amp; Finance/coursework/2.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

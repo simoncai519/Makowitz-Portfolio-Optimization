@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/A.cpp
+A.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/A.h
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/A.h
+vector
+-
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/B.cpp
+B.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/B.h
+iostream
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/B.h
+A.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/A.h
+util.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/util.h
+cmath
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/C.cpp
+C.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/C.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/C.h
+B.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/B.h
+fstream
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.cpp
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+cmath
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+vector
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/csv.cpp
+csv.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/csv.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/csv.h
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/main.cpp
+cmath
+-
+read_data.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/read_data.h
+A.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/A.h
+B.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/B.h
+C.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/C.h
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/read_data.cpp
+read_data.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/read_data.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/read_data.h
+stdio.h
+-
+fstream
+-
+stdlib.h
+-
+sstream
+-
+csv.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/csv.h
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/util.h
+iostream
+-
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/1.0/Matrix.h
+

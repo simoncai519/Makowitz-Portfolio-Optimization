@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../util/Matrix.h
+vector
+-
+
+../util/util.h
+iostream
+-
+fstream
+-
+Matrix.h
+../util/Matrix.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/2.0/basic_function.cpp
+basic_function.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/2.0/basic_function.h
+
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/2.0/basic_function.h
+Matrix.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/2.0/Matrix.h
+iostream
+-
+cmath
+-
+util.h
+/Users/Simon-CWG/Library/Mobile Documents/com~apple~CloudDocs/imperial/Summer Term/C++ & Finance/coursework/2.0/util.h
+
